@@ -390,6 +390,11 @@
     "name": "AnimeOnDemand"
   },
   {
+    "domain": "https://vostfree.com",
+    "type": "anime",
+    "name": "Vostfree"
+  },
+  {
     "domain": "https://edelgardescans.com",
     "type": "manga",
     "name": "EdelgardeScans"
