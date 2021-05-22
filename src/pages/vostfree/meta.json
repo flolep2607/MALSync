@@ -1,7 +1,6 @@
 {
   "urls": {
     "match": [
-      "*://*.vostfree.fr/[0-9]*",
       "*://*.vostfree.com/[0-9]*",
       "*://*.vostfree.tv/[0-9]*"
     ]
