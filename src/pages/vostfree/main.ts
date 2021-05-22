@@ -2,7 +2,7 @@ import { pageInterface } from '../pageInterface';
 
 export const nineAnime: pageInterface = {
   name: 'vostfree',
-  domain: 'https://vostfree.tv/',
+  domain: ['https://vostfree.tv/','https://vostfree.com/'],
   database: 'vostfree',
   languages: ['French'],
   type: 'anime',
