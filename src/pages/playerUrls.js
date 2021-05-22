@@ -1,4 +1,10 @@
 module.exports = {
+  upvid: {
+    match: ['*://*.upvid.co/*'],
+  },
+  ninjastream: {
+    match: ['*://*.ninjastream.to/*'],
+  },
   openload: {
     match: ['*://*.openload.co/*', '*://*.openload.pw/*'],
   },
@@ -36,7 +42,7 @@ module.exports = {
     match: ['*://*.mail.ru/*'],
   },
   myvi: {
-    match: ['*://*.myvi.ru/*'],
+    match: ['*://*.myvi.ru/*','*://*.myvi.tv/'],
   },
   sibnet: {
     match: ['*://*.sibnet.ru/*'],
