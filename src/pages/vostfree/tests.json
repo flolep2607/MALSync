@@ -1,0 +1,21 @@
+{
+  "title": "vostfree",
+  "url": "https://vostfree.tv/",
+  "testCases": [
+    {
+      "url": "https://vostfree.tv/1008-arrete-de-me-chauffer-nagatoro-vostfr-ddl-streaming-1fichier-uptobox.html",
+      "expected": {
+        "sync": true,
+        "title": "Ijiranaide, Nagatoro-san VOSTFR",
+        "identifier": "1008",
+        "overviewUrl": "https://vostfree.tv/1008-arrete-de-me-chauffer-nagatoro-vostfr-ddl-streaming-1fichier-uptobox.html",
+        "nextEpUrl": "https://vostfree.tv/1008-arrete-de-me-chauffer-nagatoro-vostfr-ddl-streaming-1fichier-uptobox.html",
+        "episode": 1,
+        "uiSelector": true,
+        "epList": {
+          "1": "https://vostfree.tv/1008-arrete-de-me-chauffer-nagatoro-vostfr-ddl-streaming-1fichier-uptobox.html"
+        }
+      }
+    }
+  ]
+}
