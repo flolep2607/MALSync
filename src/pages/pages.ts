@@ -121,7 +121,7 @@ import { KangaryuTeam } from './KangaryuTeam/main';
 import { Japanread } from './Japanread/main';
 import { CatManga } from './CatManga/main';
 import { Zoro } from './Zoro/main';
-import { Vostfree } from './vostfree/main';
+import { vostfree } from './vostfree/main';
 
 export const pages = {
   nineAnime,
