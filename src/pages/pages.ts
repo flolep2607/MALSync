@@ -247,5 +247,5 @@ export const pages = {
   Japanread,
   CatManga,
   Zoro,
-  Vostfree,
+  vostfree,
 };
