@@ -1,6 +1,6 @@
 import { pageInterface } from '../pageInterface';
 
-export const Vostfree: pageInterface = {
+export const vostfree: pageInterface = {
   name: 'vostfree',
   domain: ['https://vostfree.tv/','https://vostfree.com/'],
   database: 'vostfree',
