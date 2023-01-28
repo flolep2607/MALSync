@@ -54,7 +54,7 @@
     "typescript": "^3.9.7",
     "vue-loader": "^15.9.3",
     "vue-template-compiler": "^2.6.12",
-    "web-ext": "^4.3.0",
+    "web-ext": "^7.5.0",
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12",
     "wrapper-webpack-plugin": "^2.0.0"
